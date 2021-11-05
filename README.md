@@ -53,7 +53,7 @@ I'm 22-year-old boy on an intention to enhance as a successful full-stack web de
 - [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://blog.saviomartin.com/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
 - [Create a Search Filter in React from Scratch 🔎](https://blog.saviomartin.com/create-a-search-filter-in-react-from-scratch)
 <!-- BLOG-POST-LIST:END -->
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![Dino](https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/dino.gif)
 ## 👨‍💻 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
@@ -67,8 +67,21 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## My Github Status 🦸
+| ![](https://github-readme-stats.vercel.app/api?username=SOURAB-BAPPA&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAB-BAPPA) |
+| --- | --- |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=SOURAB-BAPPA) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![](https://github-readme-stats.vercel.app/api?username=SOURAB-BAPPA&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/soc/snake.svg)
+
+<sup>Credits for Snake: <a href="https://github.com/SOURAB-BAPPA/" target="_blank">Sourab Maity</a>.</sup>
+
+## Watch my contribution graph being eaten by a snake🐍
+
+<p align="center">
+  <img src="https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ## My Github Activity ⚡
 
