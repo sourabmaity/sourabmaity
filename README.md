@@ -81,4 +81,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=SOURAB-BAPPA'></p>
-[![Spotify](https://novatorem-chi-ten.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-chi-ten.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-4obz9xmlm-sourab-bappa.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
