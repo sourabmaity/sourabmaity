@@ -13,15 +13,10 @@ I'm 22-year-old boy on an intention to enhance as a successful full-stack web de
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of 🌈
 
-## Find me around the web 🌍
+## Let's Connect <img src="https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
-- [Instagram](https://www.instagram.com/teen_developer/)
-- [LinkedIn](https://www.linkedin.com/in/saviomartin)
-- [Twitter](https://twitter.com/saviomartin7)
-- [Codepen](https://codepen.io/saviomartin/)
-- [Figma](https://www.figma.com/@saviomartin)
-- [Hashnode](https://hashnode.com/@saviomartin)
-- [Dev.to](https://dev.to/saviomartin)
+[<img src='https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
+[<img src='https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/SOURAB-BAPPA)&nbsp;  
 
 ## My skills 🚀
 
