@@ -1,13 +1,13 @@
 <img src="https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-I'm 22-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/SavioMartin7)
+I'm 22-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on my MERN Stack
-- 🌱 I’m currently learning Backend & APIs
-- 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
-- 💬 Ask me about Frontend Technologies
-- 📫 How to reach me: [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com)
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on YOLO v5
+- 🌱 I’m currently learning custom object detection
+- 👯 I’m looking to collaborate on Computer Vision
+- 🤔 I’m looking for a good project
+- 💬 Ask me about Computer Vision
+- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 😄 Pronouns: He
 - ⚡ Fun fact: Big fan of 🌈
 
 ## Let's Connect <img src="https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/assets/logo/socials.png" width=40 height=40 /> 
@@ -81,6 +81,8 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=SOURAB-BAPPA'></p>
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+
 
 ## Spotify Playing 🎧
 
