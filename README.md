@@ -1,6 +1,6 @@
 # Hello, I am Sourab 👋
 
-![](https://raw.githubusercontent.com/saviomartin/saviomartin/main/github-banner%20(1).png)
+
 
 I'm 22-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/SavioMartin7)
 
@@ -44,6 +44,7 @@ I'm 22-year-old boy on an intention to enhance as a successful full-stack web de
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
+![Profile views](https://gpvc.arturio.dev/SOURAB-BAPPA)
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
@@ -93,4 +94,4 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/gradientking)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=SOURAB-BAPPA'></p>
