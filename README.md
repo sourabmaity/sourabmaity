@@ -31,27 +31,8 @@ I'm 22-year-old boy on an intention to enhance as a successful full-stack web de
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
 
 ![Profile views](https://gpvc.arturio.dev/SOURAB-BAPPA)
-## My Recent Blog posts ✍️
 
-<!-- BLOG-POST-LIST:START -->
-- [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
-- [Introducing Styler - The Next Generation CSS Builder in the Web for your Hashnode Blog ✨️](https://blog.saviomartin.com/styler)
-- [Introducing Slickr - The most powerful Cover Image generator for your Hashnode blog ✨️](https://blog.saviomartin.com/introducing-slickr-the-most-powerful-cover-image-generator-for-your-hashnode-blog)
-- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://blog.saviomartin.com/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
-- [Create a Search Filter in React from Scratch 🔎](https://blog.saviomartin.com/create-a-search-filter-in-react-from-scratch)
-<!-- BLOG-POST-LIST:END -->
 ![Dino](https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/dino.gif)
-## 👨‍💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   16 hrs 4 mins   █████████████████████▓░░░   87.24 % 
-CSS          1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-```
-<!--END_SECTION:waka-->
 
 ## My Github Status 🦸
 | ![](https://github-readme-stats.vercel.app/api?username=SOURAB-BAPPA&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOURAB-BAPPA) |
@@ -77,8 +58,8 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/gradientking)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SOURAB-BAPPA&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/SOURAB-BAPPA/JERVIS_AI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SOURAB-BAPPA&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/SOURAB-BAPPA/AlgorithmsAndDataStructure)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=SOURAB-BAPPA'></p>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
