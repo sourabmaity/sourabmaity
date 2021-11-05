@@ -71,16 +71,11 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=SOURAB-BAPPA) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-Watch my contribution graph being eaten by a Snake! 🐍
-
-![Watch my contribution graph being eaten by a Snake!](https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/soc/snake.svg)
-
-<sup>Credits for Snake: <a href="https://github.com/SOURAB-BAPPA/" target="_blank">Sourab Maity</a>.</sup>
 
 ## Watch my contribution graph being eaten by a snake🐍
 
 <p align="center">
-  <img src="https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 ## My Github Activity ⚡
