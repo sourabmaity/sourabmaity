@@ -52,11 +52,8 @@ I'm 22-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-2. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-3. ❗️ Closed issue [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-4. ❌ Closed PR [#3](https://github.com/saviomartin/styler/pull/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
-5. 🗣 Commented on [#3](https://github.com/saviomartin/styler/issues/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
+1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [sourab/styler](https://github.com/r)
+
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
