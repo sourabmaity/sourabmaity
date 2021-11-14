@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SOURAB-BAPPA/SOURAB-BAPPA/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
+I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on YOLO v5
 - 🌱 I’m currently learning custom object detection
