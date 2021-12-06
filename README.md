@@ -42,7 +42,7 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=SOURAB-BAPPA) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=SOURAB-BAPPA&theme=react-dark&hide_border=true&area=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=SOURAB-BAPPA&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 
 ## Watch my contribution graph being eaten by a snake🐍
