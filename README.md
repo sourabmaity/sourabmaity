@@ -63,6 +63,7 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SOURAB-BAPPA&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/SOURAB-BAPPA/DuckHuntGame-AI)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SOURAB-BAPPA&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/SOURAB-BAPPA/JERVIS_AI)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SOURAB-BAPPA&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/SOURAB-BAPPA/AlgorithmsAndDataStructure)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SOURAB-BAPPA&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/SOURAB-BAPPA/Vegetable-Detection_App)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=SOURAB-BAPPA'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/SOURAB-BAPPA?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
