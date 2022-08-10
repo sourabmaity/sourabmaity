@@ -4,7 +4,7 @@
 
 I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on CV model deployment in AWS
+- 🔭 I’m currently working on AWS Kinesis Video Streams
 - 🌱 I’m currently learning custom Image segmentation
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for a good project
