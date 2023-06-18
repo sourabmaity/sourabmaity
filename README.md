@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+I'm 23-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on AWS Kinesis Video Streams from Raspberry Pi4
 - 🌱 I’m currently learning custom Image segmentation
@@ -38,7 +38,6 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/logo-aws-small.png" alt="opencv" width="50" height="50"/> 
 
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
@@ -47,7 +46,6 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=sourabmaity&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
