@@ -111,6 +111,7 @@ I'm 23-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 <img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+
 ## Spotify Playing 🎧
 
 
